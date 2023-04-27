@@ -1,0 +1,64 @@
+<template>
+  <div class="history padbot2">
+    <div v-for="(job, index) in positions" :key="index" class="dashbefore">
+      <div class="pure-u-1-1 pure-u-md-1-3 alignright ">
+        <div class="lining">
+          <h3 class="title martop1">
+            {{ job.title }}
+          </h3>
+          <h4 class="meta jobline">
+            <span v-if="job.team">{{ job.team}}, </span>{{ job.company }}
+          </h4>
+          <h4 class="meta jobline">
+             {{ job.startMonth }} {{ job.startYear }} &ndash; {{ job.endMonth }} {{ job.endYear }} | {{ job.location }}
+          </h4>
+        </div>
+      </div>
+      <div class="pure-u-1-1 pure-u-md-2-3">
+        <div class="lining">
+          <div class="description">
+            {{ job.description }}
+          </div>
+          <ul class="highlight martop0">
+            <li v-for="(point, pindex) in job.points" :key="pindex">
+              {{ point }}
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+  import axios from 'redaxios';
+
+  export default {
+    name: "history",
+    data() {
+      return {
+        positions: []
+      }
+    },
+    created() {
+      this.getPositions();
+    },
+    methods: {
+      getPositions() {
+        axios.get('../positions.json').then((response) => {
+          this.positions = response.data;
+        });
+      }
+    }
+  };
+</script>
+
+<style scoped lang="scss">
+  .lining {
+    padding-bottom: 1rem;
+  }
+  h2.section.short {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+</style>

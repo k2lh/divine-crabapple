@@ -1,0 +1,429 @@
+[
+	{
+		"startMonth": "Jun",
+		"startYear": "2020",
+		"endMonth": "Oct",
+		"endYear": "2021",
+		"location": "remote",
+		"logo": "kyndryl.png",
+		"title": "Design System Architect & Dev Lead",
+		"team": "Digital Marketing",
+		"company": "Kyndryl",
+		"description": "Lead fullstack devs in establishing team processes and standards for figma, storybook, and AEM. Architect the digital design system and implementation processes, and strategize future expansion. Educate colleagues on dataviz design standards and best practices.",
+		"points": [
+			"Crafted long-term career growth with each dev, aligned with management priorities. ",
+			"Presented multiple dataviz tutorial sessions to UX Guild's 200+ audience.",
+			"Outlined design system documentation with 11 sections and 45 components."
+		],
+		"tools & technologies": [
+			"mural",
+			"figma",
+			"storybook",
+			"AEM",
+			"github",
+			"planner",
+			"zeroheight",
+			"sass/css",
+			"lit.js",
+			"jenkins"
+		],
+		"skills": [
+			"data visualization",
+			"leadership",
+			"mentorship",
+			"communications",
+			"process analysis",
+			"application architecture",
+			"enterprise architecture"
+		]
+	},
+	{
+		"startMonth": "Oct",
+		"startYear": "2021",
+		"endMonth": "Jun",
+		"endYear": "2022",
+		"location": "remote",
+		"logo": "kyndryl.png",
+		"title": "Sr UX Architect & Dataviz Design Lead",
+		"team": "People Analytics",
+		"company": "Kyndryl",
+		"description": "Established HR data visualization brand and standards. Mentored designers and developers in dataviz best practices. Continuously improved dynamic analytics site with 2K+ visitors weekly",
+		"points": [
+			"Founded Dataviz Design Guild.",
+			"Upgraded analytics site to Vue3 and converted to new SAML/passport setup.",
+			"Tutored team Data Scientists on dataviz best practices in PowerBI."
+		],
+		"tools & technologies": [
+			"sketch",
+			"powerBI",
+			"github",
+			"jira",
+			"atom",
+			"vue3",
+			"sass/css",
+			"node/express",
+			"npm/yarn",
+			"docker",
+			"eslint",
+			"jest",
+			"mongo",
+			"sql"
+		],
+		"skills": [
+			"ux design",
+			"ui architecture",
+			"api design",
+			"data visualization",
+			"mentorship",
+			"communications",
+			"application architecture",
+			"enterprise architecture"
+		]
+	},
+	{
+		"startMonth": "Jun",
+		"startYear": "2020",
+		"endMonth": "Oct",
+		"endYear": "2021",
+		"location": "remote",
+		"logo": "ibm.png",
+		"team": "HR Analytics",
+		"title": "Sr UX Architect & Dataviz Design Lead",
+		"company": "IBM",
+		"description": "Built and iterated analytics site personalization and faceted search. Designed HR's dataviz style. Established HR Dataviz Guild and presented dataviz best practices. Collaborated on design system dataviz components with designers and developers from Cloud, Sales, and Carbon.",
+		"points": [
+			"Expanded MongoDB/NoSQL backend to include complex site administration. ",
+			"Supported and promoted site growth to a height of 8K+ visits weekly.",
+			"Collaborated with Data Science Guild to outline best practices for Cognos."
+		],
+		"tools & technologies": [
+			"sketch",
+			"invision",
+			"carbon",
+			"git",
+			"zenhub",
+			"atom",
+			"vue3",
+			"d3",
+			"sass/css",
+			"node",
+			"express",
+			"travis",
+			"npm/yarn",
+			"eslint",
+			"jest",
+			"mongo",
+			"sql"
+		],
+		"skills": [
+			"ux design",
+			"ui architecture",
+			"api design",
+			"data visualization",
+			"leadership",
+			"communications",
+			"application architecture",
+			"enterprise architecture"
+		]
+	},
+	{
+		"startMonth": "Nov",
+		"startYear": "2018",
+		"endMonth": "Jun",
+		"location": "remote",
+		"endYear": "2020",
+		"team": "Talent Transformation Analytics",
+		"logo": "ibm.png",
+		"title": "UX Architect & Sr Dataviz Designer",
+		"company": "IBM",
+		"description": "Initiated and constructed dynamic UI to drive data-based decision making. Developed database & login APIs. Mentored junior devs in API design, component patterns, and UX principles. Instrumental in achieving 67% increase in analytics automation for 200+ active daily users.",
+		"points": [
+			"Designed and built analytics site with Node/Express backend and Vue.js/D3.js frontend.",
+			"Led 40+ team to adopt agile processes using Zenhub/Github tools.",
+			"Defined data visualizations for intuitive analysis/management of 100K+ training candidates."
+		],
+		"tools & technologies": [
+			"sketch",
+			"invision",
+			"carbon",
+			"git",
+			"zenhub",
+			"atom",
+			"vue",
+			"d3",
+			"sass/css",
+			"node",
+			"express",
+			"travis",
+			"npm/yarn",
+			"eslint",
+			"jest",
+			"mongo",
+			"sql"
+		],
+		"skills": [
+			"ux design",
+			"ui architecture",
+			"api design",
+			"data visualization",
+			"microservices",
+			"mentorship",
+			"communications",
+			"rapid prototyping",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Apr",
+		"startYear": "2017",
+		"endMonth": "Oct",
+		"location": "remote",
+		"endYear": "2018",
+		"team": "Chief Data Office, North America",
+		"logo": "ibm.png",
+		"title": "UX Strategist & Dataviz Designer",
+		"company": "IBM",
+		"description": "Drove the infusion of modern design into data privacy, security, integration, governance, and analytics. Crafted team narrative and built internal informational site. Defined design specifications for 16 projects, and supervised task and process analyses for 29 projects.",
+		"points": [
+			"Led 30+ data analysts & scientists to adopt design thinking and a design-first approach.",
+			"Initiated and created internal site to showcase projects, with APIs to Github as file source.",
+			"Designed and built analytics intake process to manage 50-60 requests per month."
+		],
+		"tools & technologies": [
+			"sketch",
+			"invision",
+			"carbon",
+			"git",
+			"zenhub",
+			"vue",
+			"d3",
+			"node/express",
+			"npm",
+			"eslint",
+			"git webhooks"
+		],
+		"skills": [
+			"ux design",
+			"ui architecture",
+			"api design",
+			"mentorship",
+			"communications",
+			"rapid prototyping",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Oct",
+		"startYear": "2016",
+		"endMonth": "Mar",
+		"endYear": "2017",
+		"location": "hybrid",
+		"logo": "ibm.png",
+		"team": "Cloud Platform",
+		"title": "API Developer",
+		"company": "IBM",
+		"description": "Facilitated design and engineering partnership to evaluate API processes and identify strategic improvements. Evaluated stakeholder and user feedback against functional requirements for scalability, performance, robustness, and security.",
+		"points": [
+			"Documented monolithic Java-based APIs into Swagger for review.",
+			"Performed user research with Cloud developers to identify priority APIs for refactoring.",
+			"Researched and presented on gateway solutions (Kong, Apigee, API Connect)."
+		],
+		"tools & technologies": [
+			"sketch",
+			"git",
+			"swagger",
+			"zenhub",
+			"atom",
+			"node/express",
+			"yaml",
+			"nginx"
+		],
+		"skills": [
+			"research",
+			"ui architecture",
+			"api design",
+			"microservices",
+			"leadership",
+			"communications",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Sep",
+		"startYear": "2015",
+		"endMonth": "Oct",
+		"endYear": "2016",
+		"logo": "ibm.png",
+		"team": "Bluemix (Cloud)",
+		"location": "onsite",
+		"title": "Sr UX/UI Developer",
+		"company": "IBM",
+		"description": "Advised leadership on component feasibility. Mentored junior devs on microservice technology, architecture, and strategy. Collaborated on standardized design guidelines. Facilitated communication between engineers and designers.",
+		"points": [
+			"Launched and led review process for converting legacy Java APIs to Node/Express APIs.",
+			"Led and instructed team of jr devs in defining, creating, and documenting robust APIs.",
+			"Supervised deliverables and coordinated planning for future iterations."
+		],
+		"tools & technologies": [
+			"sketch",
+			"invision",
+			"illustrator",
+			"git",
+			"zenhub",
+			"atom",
+			"angular",
+			"polymer",
+			"sass/css",
+			"node/express",
+			"npm/bower",
+			"grunt/gulp",
+			"dust",
+			"mongo",
+			"sql"
+		],
+		"skills": [
+			"ui architecture",
+			"interaction design",
+			"leadership",
+			"mentorship",
+			"microservices",
+			"rapid prototyping",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Mar",
+		"startYear": "2015",
+		"endMonth": "Sep",
+		"endYear": "2015",
+		"location": "hybrid",
+		"logo": "applango.png",
+		"title": "UX/UI Developer/Architect",
+		"company": "Applango",
+		"description": "Designed and implemented advanced filtering. Spearheaded modular approach to application architecture. Researched data sources to resolve data or user limitations. Surfaced new data opportunities and approaches to shift user mental models.",
+		"points": [
+			"Introduced and applied more performant Angular.js application architecture.",
+			"Collaborated with backend devs to improve API performance in frontend ingestion."
+		],
+		"tools & technologies": [
+			"invision",
+			"illustrator",
+			"git",
+			"sublime",
+			"jira",
+			"angular",
+			"less/css",
+			"nvd3/d3",
+			"node/express",
+			"npm/bower",
+			"grunt/gulp",
+			"karma",
+			"mongo",
+			"sql"
+		],
+		"skills": [
+			"ux design",
+			"ui architecture",
+			"interaction design",
+			"leadership",
+			"communications",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Jun",
+		"startYear": "2013",
+		"endMonth": "Dec",
+		"endYear": "2014",
+		"team": "Engineering",
+		"logo": "dnb.jpg",
+		"location": "onsite",
+		"title": "UX/UI Developer",
+		"company": "Dun & Bradstreet",
+		"description": "Facilitated cross-team collaboration in greenfield enterprise application. Drove improvements in interaction, responsiveness, and accessibility. Designed visualizations based on complex data sets, to enable better user analysis. Advised stakeholders on technical constraints and component feasibility.",
+		"points": [
+			"Architected Angular.js mobile-friendly web application.",
+			"Devised, prototyped, and built SSO connection between old and new web applications."
+		],
+		"tools & technologies": [
+			"invision",
+			"illustrator",
+			"git",
+			"svn",
+			"eclipse",
+			"rally",
+			"angular",
+			"less/css",
+			"nvd3/d3",
+			"npm/bower",
+			"grunt/gulp",
+			"sql"
+		],
+		"skills": [
+			"ui architecture",
+			"interaction design",
+			"ux research",
+			"mentorship",
+			"leadership",
+			"rapid prototyping",
+			"design thinking"
+		]
+	},
+	{
+		"startMonth": "Jan",
+		"startYear": "2013",
+		"endMonth": "Jun",
+		"endYear": "2013",
+		"logo": "xtivia.jpg",
+		"location": "onsite",
+		"title": "UX/UI Developer",
+		"company": "Xtivia",
+		"description": "Liferay is a Java-based proprietary content management system and portal application.  Developed within framework, often under deadline and always beyond client expectations. Collaborated with backend developers, clients, and other stakeholders. Conducted user interviews to map existing processes, and analyzed site architectures for improved user experience.",
+		"tools & technologies": [
+			"illustrator",
+			"svn",
+			"eclipse",
+			"jira",
+			"jquery",
+			"less/css",
+			"html5",
+			"maven",
+			"ant",
+			"sql"
+		],
+		"skills": [
+			"ux design",
+			"mentorship",
+			"information architecture",
+			"interaction design",
+			"ux research"
+		]
+	},
+	{
+		"startMonth": "Jan",
+		"startYear": "2010",
+		"endMonth": "Dec",
+		"endYear": "2012",
+		"logo": "klh.png",
+		"location": "hybrid",
+		"title": "Fullstack Developer",
+		"company": "KLH Associates",
+		"description": "Zilker Kite Festival, Pixel, Christeos Inc., Author Alliance, Feral Feline Rescue League; Somnio, HCBHealth, EZCorp, Mpress, A3 Design. User-centric fullstack development and design, including contextual analysis, information architecture, application architecture, database architecture.",
+		"tools & technologies": [
+			"illustrator",
+			"photoshop",
+			"svn",
+			"jquery",
+			"less/css",
+			"html5",
+			"php",
+			"sql"
+		],
+		"skills": [
+			"ux design",
+			"information architecture",
+			"interaction design",
+			"ux research"
+		]
+	}
+]

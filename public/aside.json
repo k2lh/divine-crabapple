@@ -1,0 +1,71 @@
+[
+	{
+		"research": [
+			"Comparative analysis",
+			"Contextual studies",
+			"Task analysis",
+			"Data analysis",
+			"Narrative crafting",
+			"Design critique facilitation",
+			"Statistical analysis",
+			"Requirements analysis",
+			"Process analysis",
+			"Workshop organizing",
+			"User Interviews",
+			"Ethnographic studies",
+			"Workflows, swimlanes"
+		],
+		"design": [
+			"UX Design",
+			"Design thinking",
+			"Information architecture",
+			"Interaction Design",
+			"Reusable patterns",
+			"Personas",
+			"Wireframes",
+			"Conceptual sketches",
+			"High-fidelity Mockups",
+			"Sketch",
+			"InVision",
+			"Illustrator",
+			"InDesign"
+		],
+		"dev1": [
+			"Rapid prototyping",
+			"Maintainable code",
+			"Reusable components",
+			"Vue",
+			"Atom, Sublime, jEdit",
+			"Zenhub, Jira",
+			"HTML5, CSS3, Javascript",
+			"Preprocessors",
+			"Package managers",
+			"Bug fixing",
+			"Troubleshooting",
+			"Git, Gitlab, Bitbucket"
+		],
+		"dev2": [
+			"Enterprise architecture",
+			"ESlint",
+			"Code reviews",
+			"End-to-end testing",
+			"API design",
+			"MongoDB",
+			"MySQL",
+			"Node, Express",
+			"Swagger",
+			"Webpack",
+			"A/B Testing"
+		],
+		"style": [
+			"Communications",
+			"Storytelling",
+			"Versatility",
+			"Adaptability",
+			"Team leadership",
+			"Mentoring",
+			"Relationship management",
+			"Agile"
+		]
+	}
+]
