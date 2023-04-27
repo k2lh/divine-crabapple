@@ -1,9 +1,13 @@
 /* eslint-disable */
 // this is mostly here to see if heroku is happier with a server
+const express = require('express');
 const history = require('connect-history-api-fallback');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const compression = require('compression');
+
+const app = express();
+const port = (process.env.VCAP_APP_PORT || process.env.PORT || 5000);
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
