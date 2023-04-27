@@ -19,17 +19,14 @@
     <div class="pure-u-1-3">
       <div class="inset padtop1">
         <ul class="highlight">
-          <li v-scroll-to="'#experience'" class="description">
+          <li v-scroll-to="'#experience'" class="description linkify">
             Read about current and past experience.
           </li>
-          <li v-scroll-to="'#projects'" class="description">
+          <li v-scroll-to="'#projects'" class="description linkify">
             Peruse a collection of past projects.
           </li>
-          <li v-scroll-to="'#testimonials'" class="description">
+          <li v-scroll-to="'#testimonials'" class="description linkify">
             Read client and team recommendations.
-          </li>
-          <li class="description">
-            Send a message.
           </li>
         </ul>
       </div>
@@ -55,5 +52,8 @@
 
   .description p {
     font-size: 1.25rem;
+  }
+  .linkify {
+    cursor: pointer;
   }
 </style>

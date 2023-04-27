@@ -15,17 +15,13 @@
 			"Presented multiple dataviz tutorial sessions to UX Guild's 200+ audience.",
 			"Outlined design system documentation with 11 sections and 45 components."
 		],
-		"tools & technologies": [
+		"tech": [
 			"mural",
 			"figma",
 			"storybook",
 			"AEM",
-			"github",
-			"planner",
-			"zeroheight",
 			"sass/css",
-			"lit.js",
-			"jenkins"
+			"lit.js"
 		],
 		"skills": [
 			"data visualization",
@@ -53,19 +49,15 @@
 			"Upgraded analytics site to Vue3 and converted to new SAML/passport setup.",
 			"Tutored team Data Scientists on dataviz best practices in PowerBI."
 		],
-		"tools & technologies": [
+		"tech": [
 			"sketch",
 			"powerBI",
-			"github",
 			"jira",
-			"atom",
 			"vue3",
 			"sass/css",
 			"node/express",
-			"npm/yarn",
 			"docker",
 			"eslint",
-			"jest",
 			"mongo",
 			"sql"
 		],
@@ -96,22 +88,17 @@
 			"Supported and promoted site growth to a height of 8K+ visits weekly.",
 			"Collaborated with Data Science Guild to outline best practices for Cognos."
 		],
-		"tools & technologies": [
+		"tech": [
+			"tableau",
 			"sketch",
 			"invision",
 			"carbon",
-			"git",
 			"zenhub",
-			"atom",
 			"vue3",
 			"d3",
 			"sass/css",
-			"node",
-			"express",
-			"travis",
-			"npm/yarn",
+			"node/express",
 			"eslint",
-			"jest",
 			"mongo",
 			"sql"
 		],
@@ -138,26 +125,19 @@
 		"company": "IBM",
 		"description": "Initiated and constructed dynamic UI to drive data-based decision making. Developed database & login APIs. Mentored junior devs in API design, component patterns, and UX principles. Instrumental in achieving 67% increase in analytics automation for 200+ active daily users.",
 		"points": [
-			"Designed and built analytics site with Node/Express backend and Vue.js/D3.js frontend.",
+			"Designed and built analytics site with Node/Express backend and Vue/D3 frontend.",
 			"Led 40+ team to adopt agile processes using Zenhub/Github tools.",
 			"Defined data visualizations for intuitive analysis/management of 100K+ training candidates."
 		],
-		"tools & technologies": [
+		"tech": [
 			"sketch",
 			"invision",
 			"carbon",
-			"git",
-			"zenhub",
-			"atom",
-			"vue",
-			"d3",
+			"vue2",
+			"D3",
 			"sass/css",
-			"node",
-			"express",
-			"travis",
-			"npm/yarn",
+			"node/express",
 			"eslint",
-			"jest",
 			"mongo",
 			"sql"
 		],
@@ -189,18 +169,16 @@
 			"Initiated and created internal site to showcase projects, with APIs to Github as file source.",
 			"Designed and built analytics intake process to manage 50-60 requests per month."
 		],
-		"tools & technologies": [
+		"tech": [
 			"sketch",
 			"invision",
 			"carbon",
-			"git",
-			"zenhub",
-			"vue",
+			"vue2",
 			"d3",
 			"node/express",
-			"npm",
 			"eslint",
-			"git webhooks"
+			"travis",
+			"webhooks"
 		],
 		"skills": [
 			"ux design",
@@ -228,12 +206,9 @@
 			"Performed user research with Cloud developers to identify priority APIs for refactoring.",
 			"Researched and presented on gateway solutions (Kong, Apigee, API Connect)."
 		],
-		"tools & technologies": [
+		"tech": [
 			"sketch",
-			"git",
 			"swagger",
-			"zenhub",
-			"atom",
 			"node/express",
 			"yaml",
 			"nginx"
@@ -264,22 +239,16 @@
 			"Led and instructed team of jr devs in defining, creating, and documenting robust APIs.",
 			"Supervised deliverables and coordinated planning for future iterations."
 		],
-		"tools & technologies": [
+		"tech": [
 			"sketch",
 			"invision",
 			"illustrator",
-			"git",
-			"zenhub",
-			"atom",
 			"angular",
 			"polymer",
 			"sass/css",
 			"node/express",
-			"npm/bower",
 			"grunt/gulp",
-			"dust",
-			"mongo",
-			"sql"
+			"dust"
 		],
 		"skills": [
 			"ui architecture",
@@ -305,17 +274,14 @@
 			"Introduced and applied more performant Angular.js application architecture.",
 			"Collaborated with backend devs to improve API performance in frontend ingestion."
 		],
-		"tools & technologies": [
+		"tech": [
 			"invision",
 			"illustrator",
-			"git",
-			"sublime",
 			"jira",
 			"angular",
 			"less/css",
 			"nvd3/d3",
 			"node/express",
-			"npm/bower",
 			"grunt/gulp",
 			"karma",
 			"mongo",
@@ -345,19 +311,15 @@
 			"Architected Angular.js mobile-friendly web application.",
 			"Devised, prototyped, and built SSO connection between old and new web applications."
 		],
-		"tools & technologies": [
+		"tech": [
 			"invision",
 			"illustrator",
-			"git",
 			"svn",
 			"eclipse",
-			"rally",
 			"angular",
 			"less/css",
 			"nvd3/d3",
-			"npm/bower",
-			"grunt/gulp",
-			"sql"
+			"grunt/gulp"
 		],
 		"skills": [
 			"ui architecture",
@@ -379,17 +341,12 @@
 		"title": "UX/UI Developer",
 		"company": "Xtivia",
 		"description": "Liferay is a Java-based proprietary content management system and portal application.  Developed within framework, often under deadline and always beyond client expectations. Collaborated with backend developers, clients, and other stakeholders. Conducted user interviews to map existing processes, and analyzed site architectures for improved user experience.",
-		"tools & technologies": [
+		"tech": [
 			"illustrator",
-			"svn",
-			"eclipse",
-			"jira",
 			"jquery",
 			"less/css",
-			"html5",
 			"maven",
-			"ant",
-			"sql"
+			"ant"
 		],
 		"skills": [
 			"ux design",
@@ -409,14 +366,12 @@
 		"title": "Fullstack Developer",
 		"company": "KLH Associates",
 		"description": "Zilker Kite Festival, Pixel, Christeos Inc., Author Alliance, Feral Feline Rescue League; Somnio, HCBHealth, EZCorp, Mpress, A3 Design. User-centric fullstack development and design, including contextual analysis, information architecture, application architecture, database architecture.",
-		"tools & technologies": [
+		"tech": [
 			"illustrator",
 			"photoshop",
-			"svn",
 			"jquery",
 			"less/css",
-			"html5",
-			"php",
+			"php4",
 			"sql"
 		],
 		"skills": [
