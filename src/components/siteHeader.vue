@@ -101,7 +101,7 @@
                   </router-link>
                 </li> -->
                 <li class="pure-menu-item">
-                  <a href="">
+                  <a href="https://www.dropbox.com/s/3xhg17d8ywo3ugf/klhamilton2023.pdf?dl=0">
                     resumé
                   </a>
                 </li>
