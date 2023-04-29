@@ -118,7 +118,7 @@
       color: #111;
     }
     & .hellotext {
-        font-size: 1.25rem;
+        font-size: 1.75rem;
         font-weight: 200;
         color: #111S;
         height: 20vh;

@@ -142,7 +142,7 @@
     &.headers {
       & h1 {
         letter-spacing: 3px;
-        font-size: .9rem;
+        font-size: 1.25rem;
         font-weight: 400;
       }
     }
@@ -170,7 +170,7 @@
 }
 .pure-menu-item {
   margin: -1rem 1rem 0 0;
-  font-size: .9rem;
+  font-size: 1.25rem;
   color: #111;
   & a {
     color: #111;
@@ -188,7 +188,7 @@
       &.headers {
         & h1 {
           letter-spacing: 3px;
-          font-size: 1rem;
+          font-size: 1.5rem;
           font-weight: 400;
         }
       }
@@ -202,7 +202,7 @@
   }
   .pure-menu-item {
     margin: .5rem 1rem 0 0;
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: #111;
     cursor: pointer;
     & a {
