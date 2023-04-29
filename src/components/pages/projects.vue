@@ -345,18 +345,18 @@
     padding: 1rem 0 0 0;
     text-transform: uppercase;
     font-weight: 500;
-    font-size: 1.4rem;
+    font-size: .9rem;
     text-align: right;
   }
   .card .title {
     padding: 0;
     text-align: right;
     color: #111;
-    font-size: 1.25rem;
+    font-size: .9rem;
   }
   .card .desc {
     padding: 1rem 0 0 0;
-    font-size: 1.25rem;
+    font-size: .9rem;
   }
   .card .actions {
     // display: grid;
@@ -436,15 +436,14 @@
   }
   .label {
     margin: 0 0 .25rem 0;
-    font-size: 1.25rem;
+    font-size: .9rem;
   }
 
   .pure-button {
     padding: .5rem 1rem;
     border: 1px solid #6c4f70;
-    font-size: .85rem;
+    font-size: .9rem;
     color: #6c4f70;
-    font-size: 1.15rem;
     text-decoration: none;
     background-color: #FFF;
     font-weight: 300;

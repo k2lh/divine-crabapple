@@ -39,7 +39,7 @@
 <style scoped lang="scss">
   .quote {
     letter-spacing: normal;
-    font-size: 1.25rem;
+    font-size: .9rem;
   }
   .jobline {
     padding: 2rem 0 0 0;
@@ -52,7 +52,7 @@
   }
   .cite {
     margin-top: .25rem;
-    font-size: 1.25rem;
+    font-size: .9rem;
     color: #555;
   }
 </style>

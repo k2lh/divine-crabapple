@@ -219,7 +219,7 @@ h4.meta{
 
 .topquote {
   color: #6e7984;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   padding: 1rem 0;
   margin-bottom: 3rem;
   border-bottom: 1px solid #111;
@@ -237,7 +237,7 @@ h4.meta{
 
 h2.section {
   text-transform: uppercase;
-  font-size: 1.75rem;
+  font-size: 1.25rem;
   color: #111;
   font-weight: 500;
   margin: 2rem 2rem 0 2rem;
@@ -248,14 +248,14 @@ h2.section {
   }
 
   h2.section.subsection {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: #333;
     font-weight: 300;
   }
 
 .description {
   margin: 0 0 .5rem 0;
-  font-size: 1.25rem;
+  font-size: .9rem;
 }
 
 .bordered {
@@ -284,12 +284,12 @@ h2.section {
 
 h3.title {
   font-weight: 700;
-  font-size: 1.25rem;
+  font-size: .9rem;
   margin: 0;
 }
 .meta {
   color: #111;
-  font-size: 1.25rem;
+  font-size: .9rem;
   font-weight: 300;
   line-height: 1;
   margin: 0;
@@ -313,7 +313,7 @@ h3.title {
 }
 
 .highlight {
-  font-size: 1.25rem;
+  font-size: .9rem;
 }
 .highlight li {
   margin-bottom: .25rem;

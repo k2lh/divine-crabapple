@@ -47,7 +47,7 @@
     display: block;
     margin: .25rem 0 2rem 0;
     color: #6c4f70;
-    font-size: 1.15rem;
+    font-size: 1rem;
     text-decoration: none;
     &:hover {
       text-decoration: underline;

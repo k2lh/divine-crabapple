@@ -51,7 +51,7 @@
   }
 
   .description p {
-    font-size: 1.25rem;
+    font-size: .9rem;
   }
   .linkify {
     cursor: pointer;
