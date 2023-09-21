@@ -28,7 +28,7 @@
 		],
 		"links": [
 			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/nuhbbrgnah12lx8/AACaXyMkMjl7EQzmvIM2DJ8Pa?dl=0",
 				"alt": "docs"
 			}
 		]
@@ -79,8 +79,8 @@
 		],
 		"links": [
 			{
-				"url": "",
-				"alt": "repo"
+				"url": "https://www.dropbox.com/sh/texnobfniqzuksv/AACl7JbhmfYKGyxdPTwwR0X3a?dl=0",
+				"alt": "screen"
 			}
 		]
 	},
@@ -131,12 +131,8 @@
 		],
 		"links": [
 			{
-				"url": "",
-				"alt": "repo"
-			},
-			{
-				"url": "",
-				"alt": "screen"
+				"url": "https://www.dropbox.com/sh/lsls1sp9nmm0zca/AADJDwW7VGFdqmtxUCIxDpc7a?dl=0",
+				"alt": "mock"
 			}
 		]
 	},
@@ -189,11 +185,7 @@
 		],
 		"links": [
 			{
-				"url": "",
-				"alt": "repo"
-			},
-			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/y799gvdt125x0xa/AABDRUF34-yy9ZzVGBYO6KV5a?dl=0",
 				"alt": "mock"
 			}
 		]
@@ -249,16 +241,8 @@
 		],
 		"links": [
 			{
-				"url": "",
-				"alt": "repo"
-			},
-			{
-				"url": "",
+				"url": "https://www.dropbox.com/scl/fi/1dkss78e3iotkegbhxfi6/main-future-full.jpg?rlkey=vtck8oqcj0nqhgujfn1oi5zyp&dl=0",
 				"alt": "mock"
-			},
-			{
-				"url": "/cstudy1",
-				"alt": "case study"
 			}
 		]
 	},
@@ -293,11 +277,7 @@
 		],
 		"links": [
 			{
-				"url": "",
-				"alt": "repo"
-			},
-			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/7k80gm2szakel70/AABbe2uogq7OFLB5aoH1QHyja?dl=0",
 				"alt": "mock"
 			}
 		]
@@ -305,12 +285,12 @@
 	{
 		"startMonth": "Oct",
 		"startYear": 2018,
-		"endMonth": "ongoing",
-		"endYear": null,
+		"endMonth": "Oct",
+		"endYear": 2021,
 		"logo": "ibm",
 		"team": "IBM Talent Analytics",
 		"title": "Analytics Site",
-		"description": "Single point of entry for analytics dashboards, ",
+		"description": "Single point of entry for analytics dashboards.",
 		"keywords": [
 			"research",
 			"design",
@@ -350,11 +330,11 @@
 		],
 		"links": [
 			{
-				"url": "",
+				"url": "https://github.com/k2lh/project2-vue-ui",
 				"alt": "repo"
 			},
 			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/th1cfuyfvlsvxg8/AACnd-LutKVdAbveykIY67G8a?dl=0",
 				"alt": "mock"
 			}
 		]
@@ -388,7 +368,7 @@
 		],
 		"links": [
 			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/ob6d2xers595tuo/AABXR9-fR1HKZ9ZRnlupAWmTa?dl=0",
 				"alt": "mock"
 			}
 		]
@@ -419,7 +399,7 @@
 		],
 		"links": [
 			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/8w6e05g460y1wnc/AAAGAKzIhXdU2nJ7v5FlqVD5a?dl=0",
 				"alt": "mock"
 			}
 		]
@@ -469,16 +449,8 @@
 		],
 		"links": [
 			{
-				"url": "",
-				"alt": "repo"
-			},
-			{
-				"url": "",
-				"alt": "screen"
-			},
-			{
-				"url": "",
-				"alt": "mock"
+				"url": "https://www.dropbox.com/sh/4gtkn74jb2f208i/AAAHmeU_-sqkmhIFVKVDitsea?dl=0",
+				"alt": "docs"
 			}
 		]
 	},
@@ -514,12 +486,8 @@
 		],
 		"links": [
 			{
-				"url": "",
+				"url": "https://github.com/k2lh/generators-vue",
 				"alt": "repo"
-			},
-			{
-				"url": "",
-				"alt": "site"
 			}
 		]
 	},
@@ -561,7 +529,7 @@
 		],
 		"links": [
 			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/d4t67tph282lwpj/AAA9DKl4Oxy4Imj1UYM9GvGOa?dl=0",
 				"alt": "mock"
 			}
 		]
@@ -611,11 +579,7 @@
 		],
 		"links": [
 			{
-				"url": "",
-				"alt": "repo"
-			},
-			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/1z7s7m1evk69s32/AACAF4YZWTnNzazWuqZ9zyYea?dl=0",
 				"alt": "screen"
 			}
 		]
@@ -662,16 +626,8 @@
 		],
 		"links": [
 			{
-				"url": "",
-				"alt": "repo"
-			},
-			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/5mxsi2iz0in9z92/AAARJQursb5zxdwEoCCx3M97a?dl=0",
 				"alt": "screen"
-			},
-			{
-				"url": "",
-				"alt": "mock"
 			}
 		]
 	},
@@ -703,7 +659,7 @@
 		],
 		"links": [
 			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/sschsyncg7s0mwi/AACVz4IZDKBbYhdaXVKjpBJha?dl=0",
 				"alt": "docs"
 			}
 		]
@@ -753,16 +709,8 @@
 		],
 		"links": [
 			{
-				"url": "",
-				"alt": "repo"
-			},
-			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/zi1p48owf76wpf3/AABdFYyo-IWd7w9LskoTNfx4a?dl=0",
 				"alt": "screen"
-			},
-			{
-				"url": "",
-				"alt": "mock"
 			}
 		]
 	},
@@ -796,7 +744,7 @@
 		],
 		"links": [
 			{
-				"url": "",
+				"url": "https://www.dropbox.com/sh/dzmxewfjaq315mg/AACO8Paesn1zBcwglN1B6d1la?dl=0",
 				"alt": "docs"
 			}
 		]
@@ -809,7 +757,7 @@
 		"logo": "ibmcloud",
 		"team": "IBM Cloud",
 		"title": "App Redesign",
-		"description": "Streamlined architecture and user experience for functions-as-a-service platform.",
+		"description": "Streamlined architecture and user experience for function-as-a-service platform.",
 		"keywords": [
 			"research",
 			"design",
@@ -833,7 +781,7 @@
 		"links": [
 			{
 				"url": "https://www.dropbox.com/sh/5l7sum4i6i9xiwx/AACAdjRc3Im2LuwkUYjJK7KJa?dl=0",
-				"alt": "wires"
+				"alt": "mock"
 			}
 		]
 	},
@@ -900,11 +848,11 @@
 		"links": [
 			{
 				"url": "http://plnkr.co/edit/K9w00sFMBuph1SzIoyNB?p=preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			},
 			{
 				"url": "http://plnkr.co/edit/FmyYX9MDvsl3vxPWYq90?p=preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			}
 		]
 	},
@@ -916,7 +864,7 @@
 		"title": "Religion Generator",
 		"logo": "shark",
 		"team": "for the writers",
-		"description": "Used as a listener activity by Writing Excuses, a Hugo-winner podcast.",
+		"description": "Used as a listener activity by Writing Excuses, a Hugo-winning podcast.",
 		"keywords": [
 			"research",
 			"design",
@@ -946,7 +894,7 @@
 			},
 			{
 				"url": "http://embed.plnkr.co/J0mYup/preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			}
 		]
 	},
@@ -995,7 +943,7 @@
 		],
 		"links": [
 			{
-				"url": "",
+				"url": "https://github.com/k2lh/charateka",
 				"alt": "repo"
 			},
 			{
@@ -1004,7 +952,7 @@
 			},
 			{
 				"url": "http://plnkr.co/edit/nXhcVZ?p=preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			}
 		]
 	},
@@ -1046,11 +994,11 @@
 		"links": [
 			{
 				"url": "http://embed.plnkr.co/zpRMrBKPKah4EBxzCgDD/preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			},
 			{
 				"url": "http://embed.plnkr.co/Sc283f/preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			}
 		]
 	},
@@ -1148,11 +1096,11 @@
 				"url": "https://github.com/k2lh/generate-pop"
 			},
 			{
-				"alt": "plnkr",
+				"alt": "demo",
 				"url": "http://embed.plnkr.co/cAzNmdgLOoPFK8BJfqOM/preview"
 			},
 			{
-				"alt": "plnkr",
+				"alt": "demo",
 				"url": "http://embed.plnkr.co/5yDhfchKmzICfitylckg/preview"
 			}
 		]
@@ -1190,6 +1138,42 @@
 			{
 				"url": "http://klh.karinoyo.com/pie/",
 				"alt": "demo"
+			}
+		]
+	},
+	{
+		"startMonth": "Oct",
+		"startYear": 2014,
+		"endMonth": "Oct",
+		"endYear": 2014,
+		"title": "Happiness Demo",
+		"logo": "dnb",
+		"team": "D&B UX Design Team",
+		"description": "Prototype for customer service site.",
+		"keywords": [
+			"research",
+			"design",
+			"demo",
+			"development",
+			"bootstrap",
+			"jquery",
+			"dnb"
+		],
+		"roles": [
+			"research",
+			"design",
+			"development"
+		],
+		"tags": [
+			"jquery",
+			"knockout",
+			"canvas",
+			"bootstrap"
+		],
+		"links": [
+			{
+				"url": "https://www.dropbox.com/sh/en49iyjnlc2tju7/AAAO5xLQLyPKvhmazT_iIRt8a?dl=0",
+				"alt": "mock"
 			}
 		]
 	},
@@ -1245,16 +1229,12 @@
 				"alt": "repo"
 			},
 			{
-				"url": "https://vast-everglades-5872.herokuapp.com/index.html#/financialSummary",
-				"alt": "heroku"
-			},
-			{
 				"url": "http://embed.plnkr.co/Fiw3zi/preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			},
 			{
 				"url": "http://embed.plnkr.co/CjXt7E/preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			}
 		]
 	},
@@ -1305,7 +1285,7 @@
 		],
 		"links": [
 			{
-				"url": "https://www.dropbox.com/sh/2w8leiwm09paj0s/AACjWpIhpzGmvPVKc3RoVnpAa?dl=0",
+				"url": "https://www.dropbox.com/sh/1e4ai4sb1r3wb75/AAAjAGSYGYP07Ec5Lvj_2ILSa?dl=0",
 				"alt": "wires"
 			},
 			{
@@ -1441,11 +1421,11 @@
 		"links": [
 			{
 				"url": "http://embed.plnkr.co/x2ZXSFcjPGHrRtnbcQE0/preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			},
 			{
 				"url": "http://embed.plnkr.co/EEDLImQBLxKDiiLLUSx4/preview",
-				"alt": "plnkr"
+				"alt": "demo"
 			}
 		]
 	},
@@ -1482,43 +1462,7 @@
 			},
 			{
 				"url": "http://embed.plnkr.co/Nweuu3/preview",
-				"alt": "plnkr"
-			}
-		]
-	},
-	{
-		"startMonth": "Feb",
-		"startYear": 2013,
-		"endMonth": "Jun",
-		"endYear": 2013,
-		"title": "Operations Redesign",
-		"logo": "xtivia",
-		"team": "Xtivia Liferay",
-		"description": "Redesigned and streamlined operations system.",
-		"keywords": [
-			"research",
-			"design",
-			"mock",
-			"development",
-			"jquery",
-			"adobe",
-			"xtivia"
-		],
-		"roles": [
-			"research",
-			"design",
-			"development"
-		],
-		"tags": [
-			"adobe cc",
-			"jquery",
-			"css3",
-			"HTML5"
-		],
-		"links": [
-			{
-				"url": "",
-				"alt": "mocks"
+				"alt": "demo"
 			}
 		]
 	},
